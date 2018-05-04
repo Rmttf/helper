@@ -1,6 +1,6 @@
 # webpack-simple-admain
 
-> A Vue.js project
+> A Vue.js project for help document.
 
 ## Build Setup
 
