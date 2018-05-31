@@ -94,7 +94,7 @@
             },
             postForm(){//发送编辑的节点数据给后台
                 let post_data = 'YZZ';//节点数据
-                let post_url = 'http://localhost/get_form.php';//后台接口
+                let post_url = '';//后台接口
                 this.axios.post(post_url,post_data)
                     .then(response => {
                         if (response.status === 200){
